@@ -1,5 +1,5 @@
 # family-english
-learn english with my son and vanessa day and night 
+learn english with my son day and night 
 
 ## 起源
 自从开始教小孩子英语之后，时常会被小孩子的各种提问给难住!
