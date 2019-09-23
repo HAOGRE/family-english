@@ -8,3 +8,5 @@ learn english with my son day and night
 ## 整体思路
 就从衣食住行四个大方面总结常用和常见词汇，做个索引字典。
 ## 索引目录
+
+### chapter-one animation
